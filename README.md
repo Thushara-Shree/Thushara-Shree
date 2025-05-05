@@ -1,8 +1,7 @@
-# 👋 Hey there! I'm Thushara Shree ✨
+# 👋 Hey there! I'm **Thushara Shree C H**
 
 👨‍💻 **Full-Stack Adventurer** | ☕ **Java Junkie** | 🧙‍♀️ **Web Wizard** | 📊 **SQL Sorcerer**  
-I’m here to turn ideas into code and coffee into creativity ☕🚀  
-Debugging life one semicolon at a time and making the web a little cooler every day! 😎
+Building cool stuff and debugging life one semicolon at a time!
 
 ---
 
@@ -17,12 +16,21 @@ Debugging life one semicolon at a time and making the web a little cooler every 
 
 ---
 
-## 📊 **My GitHub Stats (Because I’m That Cool 😎)**
+## 📊 **GitHub Stats (Because I’m That Cool 😎)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thushara-Shree&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushara-Shree&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=Thushara-Shree&theme=highcontrast)
+### **GitHub Overview**
 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thushara-Shree&show_icons=true&theme=radical&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushara-Shree&layout=compact&theme=tokyonight&hide_title=true) |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **GitHub Stats**                                 | **Top Languages**                                                                                     |
+
+---
+
+### **GitHub Streak**
+
+| ![Streak](https://streak-stats.demolab.com?user=Thushara-Shree&theme=highcontrast) |
+|--------------------------------------------------------------------------------------|
+| **GitHub Streak**                                                                     |
 
 ---
 
