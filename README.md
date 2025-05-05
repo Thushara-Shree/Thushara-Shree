@@ -19,9 +19,9 @@ Debugging life one semicolon at a time and making the web a little cooler every 
 
 ## 📊 **My GitHub Stats (Because I’m That Cool 😎)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusharashree2003&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharashree2003&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=thusharashree2003&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thushara-Shree&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushara-Shree&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Thushara-Shree&theme=highcontrast)
 
 
 ---
